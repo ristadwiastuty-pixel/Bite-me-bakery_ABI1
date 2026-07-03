@@ -235,4 +235,4 @@ document.getElementById('closePayPopup').onclick = ()=> payPopup.classList.remov
 function copyText(t){
   navigator.clipboard.writeText(t).then(()=> showToast('Nomor disalin! 📋'));
 }
-<>
+</script>
