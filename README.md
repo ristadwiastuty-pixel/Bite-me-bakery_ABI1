@@ -1,3 +1,4 @@
+**LAPORAN STRATEGI BISNIS; RISTANI DWI ASTUTI**
 # 🍩 Bite Me Bakery — Website E-Commerce
 
 **Halo, Sweet Tooth! Selamat datang di Bite me bakery. Kami percaya bahwa hari yang buruk selalu bisa diperbaiki dengan potongan kue yang tepat. Temukan kreasi dessert premium yang lumer di mulut dan siap membuat harimu berkurang penatnya. Yuk, pilih kebahagiaanmu hari ini!.**
