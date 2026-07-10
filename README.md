@@ -7,14 +7,6 @@
 
 ---
 
-## 📑 Daftar Isi
-
-1. [Dokumentasi Bisnis](#-bagian-1--dokumentasi-bisnis)
-2. [Dokumentasi Teknis](#-bagian-2--dokumentasi-teknis)
-3. [Tangkapan Layar](#-tangkapan-layar)
-4. [Catatan & Batasan](#️-catatan--batasan-teknis)
-5. [Kontak](#-kontak)
-
 ---
 
 ## 🧁 BAGIAN 1 — Dokumentasi Bisnis
