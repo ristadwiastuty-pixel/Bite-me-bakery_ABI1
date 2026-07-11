@@ -57,9 +57,7 @@ Menjadi bakery rumahan pilihan utama masyarakat yang menghadirkan kue dan jajana
 | Pastry | Donut | Rp 50.000 |
 | Cupcake | Cupcake | Rp 50.000 |
 
-> Semua harga dan ketersediaan stok bisa diperbarui langsung melalui kode website (lihat bagian [Panduan Kustomisasi](#panduan-kustomisasi)).
-
-### Keunggulan / Value Proposition
+> 
 
 - Produk kekinian dengan cita rasa yang disesuaikan dengan tren pasar (contoh: Dubai Chewy Cookie).
 - Sistem pemesanan online yang praktis, tanpa perlu chat manual satu per satu di awal.
@@ -170,15 +168,6 @@ Langkah deploy ulang (jika ada perubahan file):
 | Produk baru | Duplikasi salah satu blok `<div class="product-card">`, sesuaikan `id`, nama, harga, gambar, dan rating |
 
 ---
-
-
-> **Cara menambahkan tangkapan layar di VS Code:**
-> 1. Buat folder baru bernama `screenshots` di root project (klik kanan di Explorer → **New Folder**).
-> 2. Buka website (bisa langsung dari link live demo di atas), lalu ambil screenshot untuk tiap bagian:
->    - **Desktop**: gunakan browser layar penuh.
->    - **Seluler**: perkecil lebar browser, atau buka DevTools (`F12`) → aktifkan mode responsive/perangkat HP (`Ctrl+Shift+M`).
-> 3. Simpan tiap gambar dengan nama persis seperti pada struktur file di atas, lalu taruh semua di folder `screenshots`.
-> 4. Buka preview Markdown di VS Code (`Ctrl+Shift+V`) untuk memastikan semua gambar tampil dengan benar. Gambar ini juga otomatis muncul saat README dibuka di GitHub.
 
 ---
 
