@@ -245,7 +245,7 @@ function simulateMidtransPayment(order) {
 }
 ```
 ---
-## 8. Rencana SEO, Keamanan, dan Pemeliharaan
+## Rencana SEO, Keamanan, dan Pemeliharaan
  
 **Rencana SEO:**
 - Optimasi meta title & meta description pada `index.html` dengan kata kunci relevan (misal: "toko roti online", "kue custom terdekat").
@@ -265,7 +265,7 @@ function simulateMidtransPayment(order) {
 - Iterasi desain UI/UX berdasarkan masukan pelanggan.
 ---
  
-## 9. Rencana Penggunaan Data Analitik untuk Pengambilan Keputusan
+## Rencana Penggunaan Data Analitik untuk Pengambilan Keputusan
  
 Data yang dikumpulkan dari interaksi pelanggan di website akan digunakan untuk mendukung keputusan bisnis, antara lain:
  
