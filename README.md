@@ -289,22 +289,6 @@ ristani_Bite-me-bakery_ABI-1/
 ```
  
 ---
-## ⚠️ Catatan & Batasan Teknis
-
-- **Fitur kirim bukti WhatsApp**: karena keterbatasan browser, foto bukti transfer **tidak bisa otomatis terlampir** ke chat WhatsApp — ini batasan dari WhatsApp/browser, bukan bug. Setelah tombol "Kirim Bukti ke WhatsApp" diklik, WhatsApp akan terbuka dengan pesan pemesanan otomatis, lalu pelanggan tinggal melampirkan foto secara manual di chat tersebut.
-- **Tidak menggunakan localStorage**: data keranjang & form tidak tersimpan permanen — akan kembali kosong jika halaman di-refresh. Ini disengaja agar file tetap ringan dan kompatibel di semua platform hosting statis (termasuk GitHub Pages).
-- **Tidak ada backend/database**: seluruh proses pemesanan bersifat semi-manual (konfirmasi akhir tetap melalui WhatsApp), karena website ini murni front-end statis.
-- Data rating, ulasan, dan status stok pada produk masih berupa **konten contoh (dummy)** — silakan sesuaikan dengan data asli toko.
-- Disarankan untuk mengecek tampilan di berbagai ukuran layar (desktop, tablet, smartphone) setiap kali melakukan perubahan pada kode.
-
-## 🔮 Potensi Pengembangan Selanjutnya
-
-- Integrasi backend/database agar data pesanan tersimpan otomatis (tidak hanya lewat WhatsApp manual).
-- Integrasi payment gateway otomatis (Midtrans/Xendit) untuk verifikasi pembayaran real-time.
-- Halaman admin untuk mengelola stok, harga, dan status pesanan secara langsung.
-- Sistem akun pelanggan agar riwayat pesanan tersimpan.
-
----
 
 ## 📞 Kontak
 
